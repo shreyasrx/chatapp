@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1088888894210",
+    "project_id": "let-s-chat-23dd7",
+    "storage_bucket": "let-s-chat-23dd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088888894210:android:1057d8f851c541edf2481b",
+        "android_client_info": {
+          "package_name": "com.akashjagtap.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088888894210-cuc60babgffa22f5p1sleouv20u7nni2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akashjagtap.chatapp",
+            "certificate_hash": "4dc545b74a84468917e3cd800b158cc2a1b68b1d"
+          }
+        },
+        {
+          "client_id": "1088888894210-jflsmn5rl9acrb6j2tbhefp58aeu5cn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAczO4zH_r-QIksw4h3T8pJ-b9k3-ZcYHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088888894210-jflsmn5rl9acrb6j2tbhefp58aeu5cn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
